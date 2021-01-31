@@ -1,4 +1,4 @@
 {
-   "src": [ "etc", "home", "data" ],
-   "dst": "/backup"
+   "src": [ "etc", "home" ],
+   "dst": "/backups"
 }
